@@ -1,14 +1,3 @@
-// Name: Zian Church 
-// Name: Matthew Blankenship
-// Date: 5/2/21 @11:59 PM
-// Email: zianchurch@yahoo.com
-// Email: matthew@matthewblankenship.com
-// Assignment: Program 5
-// Course Number: 2290
-// Course Section: 001
-// Honor Code: I will practice academic and personal integrity and excellence of character
-// and expect the same from others
-
 package program5;
 
 import java.util.*;
